@@ -6,8 +6,8 @@ H.require(
 );
 
 var oGoogle = H.Api.Google.construct({
-	clientId     : '7122539847.apps.googleusercontent.com',
-	clientSecret : 'myfTKyOas_gEeE1BMBK4u-29'
+	clientId     : '',
+	clientSecret : ''
 });
 	
 oGoogle.connect();
